@@ -1,1 +1,1 @@
-# homework-cuurency
+# homework-currency
